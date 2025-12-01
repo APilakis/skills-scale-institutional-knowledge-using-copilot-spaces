@@ -21,7 +21,11 @@ Roles are clearly delineated to ensure effective collaboration and accountabilit
 | **Project Manager** | Coordinates delivery, schedules, risk, and communications |
 | **Product Manager** | Drives prioritization and alignment with business value |
 | **Developers** | Implement features, write tests, and identify technical risks |
-| **QA/Testing** | Validate quality and acceptance criteria |
+| **Quality Assurance Lead** | Oversees testing activities and ensures deliverables meet quality standards |
+| **Release Manager** | Coordinates releases across teams and manages deployment timelines |
+| **Risk Champion** | Monitors project risks and leads mitigation activities |
+| **Stakeholder Liaison** | Maintains communication with stakeholders and ensures alignment |
+| **Agile Coach** | Facilitates Agile practices and supports continuous improvement |
 
 ## Quality Assurance
 

@@ -17,7 +17,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- Quality Assurance Lead: oversees testing activities and ensures quality standards.
+- Release Manager: coordinates releases across teams and manages deployment timelines.
+- Risk Champion: monitors project risks and leads mitigation activities.
+- Stakeholder Liaison: maintains stakeholder communication and ensures alignment.
+- Agile Coach: facilitates Agile practices and supports continuous improvement.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
